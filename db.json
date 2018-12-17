@@ -1,0 +1,22 @@
+{
+  "users":
+  [
+    {
+      "email": "henk@test.nl",
+      "pass": "geheim",
+      "superuser": "1"
+    },
+
+    {
+      "email": "kees@test.nl",
+      "pass": "kees",
+      "superuser": "0"
+    },
+
+    {
+      "email": "ewa",
+      "pass": "ja",
+      "superuser": "0"
+    }
+  ]
+}
